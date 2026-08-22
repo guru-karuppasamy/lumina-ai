@@ -1,0 +1,8 @@
+{
+  "name": " LUMINA - AI",
+  "description": "A Socratic learning platform that shifts AI from answer-providing to concept-building by personalizing explanations and guiding learners through interactive inquiry.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
